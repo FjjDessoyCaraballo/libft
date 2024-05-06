@@ -8,7 +8,7 @@ NB: not all of the functions there are present in C standard library; some I've 
 
 ## Usage:
 **MacOs and Linux**
-- `git clone https://github.com/FjjDessoyCaraballo/libft` into your project directory.
+- `git clone https://github.com/FjjDessoyCaraballo/Libft` into your project directory.
 - Make the files/Link the Makefile to your project Makefile with a symbolic link:
 ```
 $(LIBFT_MAKEFILE):
